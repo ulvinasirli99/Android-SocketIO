@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Socket Task</string>
+    <string name="opening_price">Opening price</string>
+    <string name="current_price">Current price</string>
+    <string name="low_price">Low price</string>
+    <string name="high_price">High price</string>
+    <string name="connected">Connected</string>
+    <string name="not_connectced">Disconnected</string>
+    <string name="test">Test</string>
+    <string name="connection_status">Connection Status</string>
+</resources>
