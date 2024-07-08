@@ -22,7 +22,3 @@ cd Android-SocketIO-Task
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://www.investaz.az/frontend/i/v5/investaz_logo.svg)
-
